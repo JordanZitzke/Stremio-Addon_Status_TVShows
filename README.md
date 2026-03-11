@@ -127,18 +127,7 @@ systemctl --user stop series-status
 journalctl --user -u series-status -f
 ```
 
----
 
-## 📁 Project structure
-
-```
-stremio-series-status/
-├── addon.js        # Main addon logic
-├── package.json
-└── README.md
-```
-
----
 
 ## 🤔 Why notifications instead of in-app description?
 
