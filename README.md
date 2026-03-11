@@ -1,3 +1,9 @@
+## 🙋 Personal Background
+
+I don't enjoy watching series that were cancelled without a proper ending, and I couldn't find any addon that clearly showed whether a series was cancelled or still running. So I built this one myself. It's simple, but it's something that should exist natively in Stremio. Hope it helps!
+
+![Notification example](img/case.png)
+
 # 📺 Stremio Series Status Addon
 
 A lightweight Stremio addon that shows whether a TV series is **Ongoing**, **Ended**, or **Cancelled** — displayed as a desktop notification whenever you open a series in Stremio.
