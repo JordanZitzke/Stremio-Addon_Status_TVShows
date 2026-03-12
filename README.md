@@ -4,7 +4,7 @@
 
 # 📺 Stremio Series Status Addon
 
-A lightweight Stremio addon that shows whether a TV series is **Ongoing**, **Ended**, or **Cancelled** — displayed as a desktop notification whenever you open a series in Stremio.
+A lightweight Stremio addon that shows whether a TV series is **Ongoing** or **Ended** — displayed as a desktop notification whenever you open a series in Stremio.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
